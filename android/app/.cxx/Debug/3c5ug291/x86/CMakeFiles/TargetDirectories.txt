@@ -1,0 +1,2 @@
+/home/wraithking/Документы/chelyabinsk_quest_07.03.2025/android/app/.cxx/Debug/3c5ug291/x86/CMakeFiles/edit_cache.dir
+/home/wraithking/Документы/chelyabinsk_quest_07.03.2025/android/app/.cxx/Debug/3c5ug291/x86/CMakeFiles/rebuild_cache.dir

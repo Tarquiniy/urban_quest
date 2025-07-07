@@ -1,0 +1,25 @@
+{
+    "app_title": "Квест Приложение",
+    "login": "Войти",
+    "register": "Зарегистрироваться",
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "home": "Главная",
+    "map": "Карта",
+    "leaderboard": "Таблица лидеров",
+    "profile": "Профиль",
+    "quest_details": "Информация о квесте",
+    "start_quest": "Начать квест",
+    "points": "Баллы",
+    "completed": "Завершен",
+    "locations_found": "Места найдены",
+    "Отлично! Хочешь перейти в приложение карты, или доберёшься сам?": "Great! Do you want to go to the map application, or will you get there yourself?",
+    "Открыть карту": "Open map",
+    "Я доберусь сам!": "I'll get there myself!",
+    "Я дошёл!": "I arrived!",
+    "Вы слишком далеко от библиотеки. Подойдите ближе!": "You are too far from the library. Get closer!",
+    "Я продолжу позже": "I'll continue later",
+    "Продолжить путешествие": "Continue the journey",
+    "Подтверждение прибытия": "Arrival confirmation"
+    }
+  

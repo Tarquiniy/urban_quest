@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/wraithking/SDK/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/opt/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/wraithking/Документы/chelyabinsk_quest_07.03.2025/android/app/.cxx/Debug/3c5ug291/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/opt/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/wraithking/Документы/chelyabinsk_quest_07.03.2025/android/app/.cxx/Debug/3c5ug291/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
