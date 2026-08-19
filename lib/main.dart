@@ -96,7 +96,6 @@ void main() async {
     MultiProvider(
       providers: [
         ChangeNotifierProvider.value(value: authProvider),
-        ChangeNotifierProvider(create: (_) => AuthProvider()..initialize()),
         ChangeNotifierProvider(create: (_) => QuestProvider()..loadQuests()),
         ChangeNotifierProvider(
           create: (_) => AchievementProvider(),
